@@ -1,0 +1,3 @@
+This project is a lightweight sentiment analysis module built in Python, designed to classify user input as positive, negative, or neutral based on natural language polarity.
+Utilizing the TextBlob library, it analyzes the emotional tone of the input text by computing its sentiment score and mapping it to a sentiment category through configurable thresholds.
+The implementation emphasizes clarity and modularity, featuring a clean structure with Python's @dataclass for modeling sentiment results. This tool is ideal for integrating into chatbot systems, feedback analysis pipelines, or educational demos in natural language processing, offering a simple yet effective approach to sentiment classification.
